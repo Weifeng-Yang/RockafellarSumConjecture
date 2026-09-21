@@ -14,6 +14,12 @@ The Lean directory contains the formalization of the counterexample on $c_0$ and
 
 See lean/README.md for the formalization scope, main files, dependencies and build instructions.
 
+## Author review and discussion record
+
+The general construction theorem and the counterexamples had already been obtained by 6 September 2026. During 6–8 September 2026 (UTC+8), the author manually reviewed these results and their proofs, with Codex assisting in checks and discussions. The manuscript was subsequently submitted to arXiv on 9 September 2026 (UTC).
+
+The [author–Codex review conversations](https://chatgpt.com/s/cx_6ab0cf9a5bd08191ad4fd249da90929d) are shared to make this review process available for readers to inspect and study alongside the paper and Lean formalization. Readers are welcome to examine the arguments, raise questions, and report any errors or points requiring clarification.
+
 
 ## AI assistance
 
