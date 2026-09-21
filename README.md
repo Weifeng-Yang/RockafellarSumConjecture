@@ -18,7 +18,7 @@ See lean/README.md for the formalization scope, main files, dependencies and bui
 
 The author manually reviewed the obtained general construction theorem and the counterexamples, with Codex assisting in checks and discussions. 
 
-The [author–Codex review conversations](https://chatgpt.com/s/cx_6ab0cf9a5bd08191ad4fd249da90929d) are shared to make this review process available for readers to inspect and study alongside the paper and Lean formalization. Readers are welcome to examine the arguments, raise questions, and report any errors or points requiring clarification.
+The [author–Codex review conversations](https://chatgpt.com/s/cx_6ab0cf9a5bd08191ad4fd249da90929d), covering the manual review and verification of the construction theorem and counterexamples from 6 to 8 September 2026, are shared to make this review process available for readers to inspect and study alongside the paper and Lean formalization. Readers are welcome to examine the arguments, raise questions, and report any errors or points requiring clarification.
 
 
 ## AI assistance
