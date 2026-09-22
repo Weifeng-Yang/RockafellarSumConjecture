@@ -16,7 +16,7 @@ See lean/README.md for the formalization scope, main files, dependencies and bui
 
 ## Author review and discussion record
 
-After GPT-5.6 Sol completed adversarial auditing and hostile review of the complete construction theorem and the two counterexamples, the author manually reviewed the results from 6 to 8 September 2026. Further manual review and verification are ongoing.
+After GPT-5.6 Sol completed adversarial auditing and hostile review of the complete construction theorem and the two counterexamples, the author manually reviewed these results from 6 to 8 September 2026. Further manual review and verification are ongoing.
 
 
 ## AI assistance
